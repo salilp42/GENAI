@@ -1,6 +1,6 @@
 # Enhanced MediAgents
 
-A practical framework that helps doctors and healthcare providers make better decisions by combining multiple AI agents that work together. Each agent specializes in different aspects of medical decision-making, from analyzing symptoms to checking medical research and ensuring ethical compliance.
+A conceptual framework that helps doctors and healthcare providers make better decisions by combining multiple AI agents that work together. Each agent specializes in different aspects of medical decision-making, from analyzing symptoms to checking medical research and ensuring ethical compliance.
 
 ## What Does It Do?
 
@@ -100,16 +100,3 @@ This code is a conceptual demonstration and not a medical device. Use at your ow
 
 - **Salil Patel** - *Initial work* - [salilp42](https://github.com/salilp42)
 
-## Acknowledgments
-
-- LangChain for providing the foundation for agent interactions
-- The medical informatics community for inspiration
-- Open-source community for various dependencies
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-MIT License
-
-Copyright (c) 2024 Salil Patel
